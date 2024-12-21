@@ -1,0 +1,21 @@
+ShowID,Genre,Actors,Director,Release_Year,Synopsis
+M1,Comedy,Adam Sandler|Jennifer Aniston,David Miller,2002,Two estranged friends reunite for a wild weekend trip.
+M2,Action,Chris Hemsworth|Tessa Thompson,Taika Waititi,2001,A thrilling adventure with a team of superheroes.
+M3,Romance,Ryan Reynolds|Sandra Bullock,Adam Shankman,2002,A chance encounter leads to a second chance at love.
+M4,Sci-Fi,Scarlett Johansson|Chris Evans,Joe Russo,2000,A group of astronauts on a dangerous mission to save humanity.
+M5,Drama,Viola Davis|Chadwick Boseman,George C. Wolfe,2003,A powerful story about a family facing injustice.
+M6,Romance,Ryan Reynolds|Blake Lively,Anne Fletcher,2003,A romantic tale of two high school sweethearts rekindling their love.
+M7,Drama,Viola Davis|Denzel Washington,Ava DuVernay,2001,An intense drama about a family's struggle for survival in a changing world.
+M8,Thriller,Jake Gyllenhaal|Amy Adams,Denis Villeneuve,2000,A suspenseful thriller that explores the dark side of human nature.
+M9,Sci-Fi,Tom Holland|Daisy Ridley,J.J. Abrams,2000,A journey through space and time with unexpected twists and turns.
+M10,Animation,Voices of Tom Hanks|Tim Allen,John Lasseter,2019,A heartwarming animated story about the true meaning of friendship.
+M11,Comedy,Ryan Reynolds|Emma Stone,Paul Feig,2002,A hilarious adventure of two unlikely friends finding their way in a comedic world.
+M12,Action,Chris Hemsworth|Scarlett Johansson,Russo Brothers,2009,An action-packed journey of heroes fighting against all odds to save the world.
+M13,Romance,Rachel McAdams|Ryan Gosling,Nick Cassavetes,2000,A romantic tale that navigates the complexities of love and relationships.
+M14,Horror,Vera Farmiga|Patrick Wilson,James Wan,2003,A chilling horror story that will keep you on the edge of your seat.
+M15,Mystery,Daniel Craig|Ana de Armas,Rian Johnson,2014,A whodunit that twists and turns through a labyrinth of secrets.
+M16,Fantasy,Eddie Redmayne|Katherine Waterston,David Yates,2001,A magical world where fantasy creatures and humans coexist in harmony.
+M17,Biography,Leonardo DiCaprio|Jennifer Lawrence,Martin Scorsese,2002,The inspiring true story of a visionary's rise to fame against all odds.
+M18,Documentary,Narrated by Morgan Freeman,Ken Burns,2016,An insightful documentary exploring the wonders of our natural world.
+M19,Musical,Hugh Jackman|Anne Hathaway,Tom Hooper,2023,A spectacular musical journey filled with emotion and breathtaking performances.
+M20,Adventure,Dwayne Johnson|Emily Blunt,Jaume Collet-Serra,2014,An epic adventure that takes you through treacherous landscapes and ancient mysteries.
